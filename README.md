@@ -1,2 +1,0 @@
-# euroform
-Created with StackBlitz ⚡️
